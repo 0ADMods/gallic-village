@@ -1,0 +1,8 @@
+{
+    "name": "gallic-village",
+    "version": "1.0.0",
+    "label": "Gallic Village",
+    "url": "N/A",
+    "description": "A bunch of cute little gallic village assets.",
+    "dependencies": ["0ad=0.0.26"]
+}

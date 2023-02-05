@@ -1,0 +1,8 @@
+* text=auto
+*.xml text
+*.json text
+*.dae text
+
+*.png binary
+*.blend binary
+
